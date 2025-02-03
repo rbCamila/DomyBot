@@ -1,0 +1,6114 @@
+{
+    "properties": [
+      {
+        "id": "200001",
+        "title": {
+          "extract": {
+            "owner": "Propietario 1",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617961",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D101",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 1",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200002",
+        "title": {
+          "extract": {
+            "owner": "Propietario 2",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617962",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D102",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 2",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200003",
+        "title": {
+          "extract": {
+            "owner": "Propietario 3",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617963",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D103",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 3",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200004",
+        "title": {
+          "extract": {
+            "owner": "Propietario 4",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617964",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D104",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 4",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200005",
+        "title": {
+          "extract": {
+            "owner": "Propietario 5",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617965",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D105",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 5",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200006",
+        "title": {
+          "extract": {
+            "owner": "Propietario 6",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617966",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D106",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 6",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200007",
+        "title": {
+          "extract": {
+            "owner": "Propietario 7",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617967",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D107",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 7",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200008",
+        "title": {
+          "extract": {
+            "owner": "Propietario 8",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617968",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D108",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 8",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200009",
+        "title": {
+          "extract": {
+            "owner": "Propietario 9",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617969",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D109",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 9",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200010",
+        "title": {
+          "extract": {
+            "owner": "Propietario 10",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179610",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D110",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 10",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200011",
+        "title": {
+          "extract": {
+            "owner": "Propietario 11",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179611",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D111",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 11",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200012",
+        "title": {
+          "extract": {
+            "owner": "Propietario 12",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179612",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D112",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 12",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200013",
+        "title": {
+          "extract": {
+            "owner": "Propietario 13",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179613",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D113",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 13",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200014",
+        "title": {
+          "extract": {
+            "owner": "Propietario 14",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179614",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D114",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 14",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200015",
+        "title": {
+          "extract": {
+            "owner": "Propietario 15",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179615",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D115",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 15",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200016",
+        "title": {
+          "extract": {
+            "owner": "Propietario 16",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179616",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D116",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 16",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200017",
+        "title": {
+          "extract": {
+            "owner": "Propietario 17",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179617",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D117",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 17",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200018",
+        "title": {
+          "extract": {
+            "owner": "Propietario 18",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179618",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D118",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 18",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200019",
+        "title": {
+          "extract": {
+            "owner": "Propietario 19",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179619",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D119",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 19",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200020",
+        "title": {
+          "extract": {
+            "owner": "Propietario 20",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179620",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D120",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 20",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200021",
+        "title": {
+          "extract": {
+            "owner": "Propietario 21",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179621",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D121",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 21",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200022",
+        "title": {
+          "extract": {
+            "owner": "Propietario 22",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179622",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D122",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 22",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200023",
+        "title": {
+          "extract": {
+            "owner": "Propietario 23",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179623",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D123",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 23",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200024",
+        "title": {
+          "extract": {
+            "owner": "Propietario 24",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179624",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D124",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 24",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200025",
+        "title": {
+          "extract": {
+            "owner": "Propietario 25",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179625",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D125",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 25",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200026",
+        "title": {
+          "extract": {
+            "owner": "Propietario 26",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179626",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D126",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 26",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200027",
+        "title": {
+          "extract": {
+            "owner": "Propietario 27",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179627",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D127",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 27",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200028",
+        "title": {
+          "extract": {
+            "owner": "Propietario 28",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179628",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D128",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 28",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200029",
+        "title": {
+          "extract": {
+            "owner": "Propietario 29",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179629",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D129",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 29",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200030",
+        "title": {
+          "extract": {
+            "owner": "Propietario 30",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179630",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D130",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 30",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200031",
+        "title": {
+          "extract": {
+            "owner": "Propietario 31",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179631",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D131",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 31",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200032",
+        "title": {
+          "extract": {
+            "owner": "Propietario 32",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179632",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D132",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 32",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200033",
+        "title": {
+          "extract": {
+            "owner": "Propietario 33",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179633",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D133",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 33",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200034",
+        "title": {
+          "extract": {
+            "owner": "Propietario 34",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179634",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D134",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 34",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200035",
+        "title": {
+          "extract": {
+            "owner": "Propietario 35",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179635",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D135",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 35",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200036",
+        "title": {
+          "extract": {
+            "owner": "Propietario 36",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179636",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D136",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 36",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200037",
+        "title": {
+          "extract": {
+            "owner": "Propietario 37",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179637",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D137",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 37",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200038",
+        "title": {
+          "extract": {
+            "owner": "Propietario 38",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179638",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D138",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 38",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200039",
+        "title": {
+          "extract": {
+            "owner": "Propietario 39",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179639",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D139",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 39",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200040",
+        "title": {
+          "extract": {
+            "owner": "Propietario 40",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179640",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D140",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 40",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200041",
+        "title": {
+          "extract": {
+            "owner": "Propietario 41",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179641",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D141",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 41",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200042",
+        "title": {
+          "extract": {
+            "owner": "Propietario 42",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179642",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D142",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 42",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200043",
+        "title": {
+          "extract": {
+            "owner": "Propietario 43",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179643",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D143",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 43",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200044",
+        "title": {
+          "extract": {
+            "owner": "Propietario 44",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179644",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D144",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 44",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200045",
+        "title": {
+          "extract": {
+            "owner": "Propietario 45",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179645",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D145",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 45",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200046",
+        "title": {
+          "extract": {
+            "owner": "Propietario 46",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179646",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D146",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 46",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200047",
+        "title": {
+          "extract": {
+            "owner": "Propietario 47",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179647",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D147",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 47",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200048",
+        "title": {
+          "extract": {
+            "owner": "Propietario 48",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179648",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D148",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 48",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200049",
+        "title": {
+          "extract": {
+            "owner": "Propietario 49",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179649",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D149",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 49",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200050",
+        "title": {
+          "extract": {
+            "owner": "Propietario 50",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179650",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D150",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 50",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200051",
+        "title": {
+          "extract": {
+            "owner": "Propietario 51",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179651",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D151",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 51",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200052",
+        "title": {
+          "extract": {
+            "owner": "Propietario 52",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179652",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D152",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 52",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200053",
+        "title": {
+          "extract": {
+            "owner": "Propietario 53",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179653",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D153",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 53",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200054",
+        "title": {
+          "extract": {
+            "owner": "Propietario 54",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179654",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D154",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 54",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200055",
+        "title": {
+          "extract": {
+            "owner": "Propietario 55",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179655",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D155",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 55",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200056",
+        "title": {
+          "extract": {
+            "owner": "Propietario 56",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179656",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D156",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 56",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200057",
+        "title": {
+          "extract": {
+            "owner": "Propietario 57",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179657",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D157",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 57",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200058",
+        "title": {
+          "extract": {
+            "owner": "Propietario 58",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179658",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D158",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 58",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200059",
+        "title": {
+          "extract": {
+            "owner": "Propietario 59",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179659",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D159",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 59",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200060",
+        "title": {
+          "extract": {
+            "owner": "Propietario 60",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179660",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D160",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 60",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200061",
+        "title": {
+          "extract": {
+            "owner": "Propietario 61",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179661",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D161",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 61",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200062",
+        "title": {
+          "extract": {
+            "owner": "Propietario 62",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179662",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D162",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 62",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200063",
+        "title": {
+          "extract": {
+            "owner": "Propietario 63",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179663",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D163",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 63",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200064",
+        "title": {
+          "extract": {
+            "owner": "Propietario 64",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179664",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D164",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 64",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200065",
+        "title": {
+          "extract": {
+            "owner": "Propietario 65",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179665",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D165",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 65",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200066",
+        "title": {
+          "extract": {
+            "owner": "Propietario 66",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179666",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D166",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 66",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200067",
+        "title": {
+          "extract": {
+            "owner": "Propietario 67",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179667",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D167",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 67",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200068",
+        "title": {
+          "extract": {
+            "owner": "Propietario 68",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179668",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D168",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 68",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200069",
+        "title": {
+          "extract": {
+            "owner": "Propietario 69",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179669",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D169",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 69",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200070",
+        "title": {
+          "extract": {
+            "owner": "Propietario 70",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179670",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D170",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 70",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200071",
+        "title": {
+          "extract": {
+            "owner": "Propietario 71",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179671",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D171",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 71",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200072",
+        "title": {
+          "extract": {
+            "owner": "Propietario 72",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179672",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D172",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 72",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200073",
+        "title": {
+          "extract": {
+            "owner": "Propietario 73",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179673",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D173",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 73",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200074",
+        "title": {
+          "extract": {
+            "owner": "Propietario 74",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179674",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D174",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 74",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200075",
+        "title": {
+          "extract": {
+            "owner": "Propietario 75",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179675",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D175",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 75",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200076",
+        "title": {
+          "extract": {
+            "owner": "Propietario 76",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179676",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D176",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 76",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200077",
+        "title": {
+          "extract": {
+            "owner": "Propietario 77",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179677",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D177",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 77",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200078",
+        "title": {
+          "extract": {
+            "owner": "Propietario 78",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179678",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D178",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 78",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200079",
+        "title": {
+          "extract": {
+            "owner": "Propietario 79",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179679",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D179",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 79",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200080",
+        "title": {
+          "extract": {
+            "owner": "Propietario 80",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179680",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D180",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 80",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200081",
+        "title": {
+          "extract": {
+            "owner": "Propietario 81",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179681",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D181",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 81",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200082",
+        "title": {
+          "extract": {
+            "owner": "Propietario 82",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179682",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D182",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 82",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200083",
+        "title": {
+          "extract": {
+            "owner": "Propietario 83",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179683",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D183",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 83",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200084",
+        "title": {
+          "extract": {
+            "owner": "Propietario 84",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179684",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D184",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 84",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200085",
+        "title": {
+          "extract": {
+            "owner": "Propietario 85",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179685",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D185",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 85",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200086",
+        "title": {
+          "extract": {
+            "owner": "Propietario 86",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179686",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D186",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 86",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200087",
+        "title": {
+          "extract": {
+            "owner": "Propietario 87",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179687",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D187",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 87",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200088",
+        "title": {
+          "extract": {
+            "owner": "Propietario 88",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179688",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D188",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 88",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200089",
+        "title": {
+          "extract": {
+            "owner": "Propietario 89",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179689",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D189",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 89",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200090",
+        "title": {
+          "extract": {
+            "owner": "Propietario 90",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179690",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D190",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 90",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200091",
+        "title": {
+          "extract": {
+            "owner": "Propietario 91",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179691",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D191",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 91",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200092",
+        "title": {
+          "extract": {
+            "owner": "Propietario 92",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179692",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D192",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 92",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200093",
+        "title": {
+          "extract": {
+            "owner": "Propietario 93",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179693",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D193",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 93",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200094",
+        "title": {
+          "extract": {
+            "owner": "Propietario 94",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179694",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D194",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 94",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200095",
+        "title": {
+          "extract": {
+            "owner": "Propietario 95",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179695",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D195",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 95",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200096",
+        "title": {
+          "extract": {
+            "owner": "Propietario 96",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179696",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D196",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 96",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200097",
+        "title": {
+          "extract": {
+            "owner": "Propietario 97",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179697",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D197",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 97",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200098",
+        "title": {
+          "extract": {
+            "owner": "Propietario 98",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179698",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D198",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 98",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200099",
+        "title": {
+          "extract": {
+            "owner": "Propietario 99",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179699",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D199",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 99",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200100",
+        "title": {
+          "extract": {
+            "owner": "Propietario 100",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617960",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D200",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 100",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200101",
+        "title": {
+          "extract": {
+            "owner": "Propietario 101",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617961",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D201",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 101",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200102",
+        "title": {
+          "extract": {
+            "owner": "Propietario 102",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617962",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D202",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 102",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200103",
+        "title": {
+          "extract": {
+            "owner": "Propietario 103",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617963",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D203",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 103",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200104",
+        "title": {
+          "extract": {
+            "owner": "Propietario 104",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617964",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D204",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 104",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200105",
+        "title": {
+          "extract": {
+            "owner": "Propietario 105",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617965",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D205",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 105",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200106",
+        "title": {
+          "extract": {
+            "owner": "Propietario 106",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617966",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D206",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 106",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200107",
+        "title": {
+          "extract": {
+            "owner": "Propietario 107",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617967",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D207",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 107",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200108",
+        "title": {
+          "extract": {
+            "owner": "Propietario 108",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617968",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D208",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 108",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200109",
+        "title": {
+          "extract": {
+            "owner": "Propietario 109",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P0617969",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D209",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 109",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200110",
+        "title": {
+          "extract": {
+            "owner": "Propietario 110",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179610",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D210",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 110",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200111",
+        "title": {
+          "extract": {
+            "owner": "Propietario 111",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179611",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D211",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 111",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200112",
+        "title": {
+          "extract": {
+            "owner": "Propietario 112",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179612",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D212",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 112",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200113",
+        "title": {
+          "extract": {
+            "owner": "Propietario 113",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179613",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D213",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 113",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200114",
+        "title": {
+          "extract": {
+            "owner": "Propietario 114",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179614",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D214",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 114",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200115",
+        "title": {
+          "extract": {
+            "owner": "Propietario 115",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179615",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D215",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 115",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200116",
+        "title": {
+          "extract": {
+            "owner": "Propietario 116",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179616",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D216",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 116",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200117",
+        "title": {
+          "extract": {
+            "owner": "Propietario 117",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179617",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D217",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 117",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200118",
+        "title": {
+          "extract": {
+            "owner": "Propietario 118",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179618",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D218",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 118",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200119",
+        "title": {
+          "extract": {
+            "owner": "Propietario 119",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179619",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D219",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 119",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200120",
+        "title": {
+          "extract": {
+            "owner": "Propietario 120",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179620",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D220",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 120",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200121",
+        "title": {
+          "extract": {
+            "owner": "Propietario 121",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-21",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-22",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179621",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D221",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 121",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-21",
+            "registration_date": "2024-08-22"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200122",
+        "title": {
+          "extract": {
+            "owner": "Propietario 122",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-22",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-23",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179622",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D222",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 122",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-22",
+            "registration_date": "2024-08-23"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200123",
+        "title": {
+          "extract": {
+            "owner": "Propietario 123",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-23",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-24",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179623",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D223",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 123",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-23",
+            "registration_date": "2024-08-24"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200124",
+        "title": {
+          "extract": {
+            "owner": "Propietario 124",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-24",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-25",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179624",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D224",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 124",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-24",
+            "registration_date": "2024-08-25"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200125",
+        "title": {
+          "extract": {
+            "owner": "Propietario 125",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-25",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-26",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179625",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D225",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 125",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-25",
+            "registration_date": "2024-08-26"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200126",
+        "title": {
+          "extract": {
+            "owner": "Propietario 126",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-26",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-27",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179626",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D226",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 126",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-26",
+            "registration_date": "2024-08-27"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200127",
+        "title": {
+          "extract": {
+            "owner": "Propietario 127",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-27",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-28",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179627",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D227",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 127",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-27",
+            "registration_date": "2024-08-28"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200128",
+        "title": {
+          "extract": {
+            "owner": "Propietario 128",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-28",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-29",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179628",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D228",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 128",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-28",
+            "registration_date": "2024-08-29"
+          },
+          "risk_level": "bajo"
+        }
+      },
+      {
+        "id": "200129",
+        "title": {
+          "extract": {
+            "owner": "Propietario 129",
+            "legal_charges": [
+              "Gravamen por deuda fiscal"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-29",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-30",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179629",
+        "study": {
+          "keywords": [
+            "gravamen",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "alto",
+          "documents": [
+            {
+              "id": "D229",
+              "type": "Contrato de compraventa",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 129",
+          "legal_charges": [
+            "Deuda fiscal"
+          ],
+          "dates": {
+            "title_signing": "2024-08-29",
+            "registration_date": "2024-08-30"
+          },
+          "risk_level": "alto"
+        }
+      },
+      {
+        "id": "200130",
+        "title": {
+          "extract": {
+            "owner": "Propietario 130",
+            "legal_charges": [
+              "Hipoteca con Banco de la Naci\u00f3n"
+            ],
+            "important_dates": [
+              {
+                "date": "2024-08-20",
+                "event": "Firma de la escritura"
+              },
+              {
+                "date": "2024-08-21",
+                "event": "Inscripci\u00f3n en el Registro"
+              }
+            ]
+          }
+        },
+        "partida_registral": "P06179630",
+        "study": {
+          "keywords": [
+            "hipoteca",
+            "inscripci\u00f3n"
+          ],
+          "risk_level": "bajo",
+          "documents": [
+            {
+              "id": "D230",
+              "type": "Escritura p\u00fablica",
+              "description": "Documento que valida la propiedad."
+            }
+          ]
+        },
+        "summary": {
+          "owner": "Propietario 130",
+          "legal_charges": [
+            "Hipoteca con Banco de la Naci\u00f3n"
+          ],
+          "dates": {
+            "title_signing": "2024-08-20",
+            "registration_date": "2024-08-21"
+          },
+          "risk_level": "bajo"
+        }
+      }
+    ]
+  }
